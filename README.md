@@ -1,8 +1,21 @@
+
 ## This is Hyoung Min Park. 👋
 **Connect to [Blog](https://www.1000min.kr), if you want to know about me more.**  
 **Thanks.**
 <br>  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fphm0127&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br> 
 <br>  
+
+### Main Stack
+<image src="https://user-images.githubusercontent.com/7456710/100917827-06d5dc00-351b-11eb-8f1b-063c2bf1f0f1.png" height="100">
+<br>       
+    
+### Sub Stack
+<image src="https://user-images.githubusercontent.com/7456710/100917621-bd858c80-351a-11eb-87d1-70d880c43c12.png" height="75">
+
+
+
   
   
 ### 📈 Github Stats
